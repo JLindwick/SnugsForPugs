@@ -1,0 +1,23 @@
+PageNav{
+    color:#baa89c
+}
+@media (max-width: 1000px) {
+   
+   #imageStyle {
+    width:20%;
+
+   } 
+}
+
+
+#Style {
+    margin-left:50%;
+    height:100%;
+    padding-bottom:10%;
+  }
+  
+#imageStyle {
+    width:100%;
+    margin-bottom:10%;
+
+}

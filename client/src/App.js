@@ -1,9 +1,7 @@
 import React from 'react'
 import {Routes, Route } from 'react-router-dom';
-// import Main from './views/Main';
-// import Update from './views/Update'
-// import New from './views/New'
 import Main from './views/Main'
+import Adopt from './views/Adopt';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -11,7 +9,7 @@ function App() {
     <div className="App">
     <Routes>
     <Route element = {<Main />} path="/" />
-
+    <Route element = {<Adopt />} path="/adopt" />
     </Routes>
   </div>
   );

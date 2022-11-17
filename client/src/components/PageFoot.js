@@ -6,7 +6,7 @@ import Image from 'react-bootstrap/Image'
 const style = {
   "padding":"5%",
   "marginLeft":"40%",
-  "font-size":"12px"
+  "fontSize":"12px"
 }
 
 const footerStyle = {
