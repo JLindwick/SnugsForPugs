@@ -16,6 +16,7 @@ const footerStyle = {
 function PageFoot() {
   return (
     <div style={footerStyle}>
+      NOTE: This website is a school project, copyrighted by Justine C. Russell and is not a live adoption website for pugs, snuggly or otherwise
     </div>
   );
 }
