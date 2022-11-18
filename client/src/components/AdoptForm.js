@@ -4,6 +4,7 @@ import Form from 'react-bootstrap/Form';
 function AdoptForm() {
     const color ={
         "backgroundColor":"#baa89c",
+        "color":"black",
         "border":"none"
     }
     return (

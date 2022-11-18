@@ -31,10 +31,9 @@ function Main() {
                 <h3 id='headTitleStyle'>Our Mission</h3>
                 <hr />
                 <p id='missionStyle'>
-                    Here at Snugs 4 Pugs, our mission is to provide great homes for little snuggly pugs everywhere!
-                    Our focus is to find the right home for pugs, and the pug that best suites you. Please feel free to schedule
-                    a phone appointment today to start the process of getting a pug. We only want whats best for the pugs so
-                    we provide fully vaccinated and daily care routines to ensure the health of the pupper!
+                Here at Snugs4Pugs, our mission is to find fantastic forever homes for little snuggly pugs everywhere! 
+                Our focus is on connecting you to the pug that best fits into your life and finding the right forever home for the pugs in our care. We focus on what's best for our pugs, so they are fully vaccinated, spayed/neutered, and have basic training prior to adoption to ensure the health of the pug and longevity of the relationship between you and the pup!
+                Call us today to start the process of getting a snuggly pug of your own!
                 </p>
                 <h3 id="headTitleStyle" >Our Staff</h3>
                 <hr />

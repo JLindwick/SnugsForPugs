@@ -17,9 +17,8 @@ function Adopt() {
                     <h3 id='headTitleStyle'>Adopt</h3>
                     <hr/>
                 <p id='adoptStyle'>
-                   Please fill out the form below to begin the pug adoption process! We strive to 
-                   find the right pug for your family, with that being said please give as much information about the the needs or wants of a pug . 
-                   Our staff will take your information and go through our list of breeders and try our best to fufill your wants and needs.
+                Fill out the form below to begin your journey in the snuggly pug adoption process! 
+                In our quest to find the right snuggly pug for you and your family, please give as much information as possible about the the needs and/or wants of your future pug . Our staff will take your information and go through our contact lists in order to do our best to fulfill your wants and needs.
                 </p>
                 <AdoptForm/>
                 <br/>
